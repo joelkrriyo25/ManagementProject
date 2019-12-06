@@ -1,0 +1,23 @@
+{
+  "name": "managementproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelkrriyo25/ManagementProject.git"
+  },
+  "author": "jocarrillo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joelkrriyo25/ManagementProject/issues"
+  },
+  "homepage": "https://github.com/joelkrriyo25/ManagementProject#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sybase": "^1.2.1"
+  }
+}
